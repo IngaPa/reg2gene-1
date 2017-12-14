@@ -14,7 +14,7 @@ output: github_document
 
 # reg2gene project
 https://github.com/BIMSBbioinfo/reg2gene
-[![Build Status](https://travis-ci.org/BIMSBbioinfo/reg2gene.svg?branch=master)](https://travis-ci.org/BIMSBbioinfo/reg2gene)
+[![Build Status](https://travis-ci.com/BIMSBbioinfo/reg2gene.svg?token=tbzbkRWzhYxzsSPxmQqw&branch=master)](https://travis-ci.com/BIMSBbioinfo/reg2gene)
 ![codecov.io](https://codecov.io/github/BIMSBbioinfo/reg2gene/coverage.svg?branch=master)
 
 
